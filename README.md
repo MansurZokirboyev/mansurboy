@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mansurboy
+- 👋 Hi, I’m @Mansur_Zokirboyev
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c
 - 💞️ I’m looking to collaborate on with me
